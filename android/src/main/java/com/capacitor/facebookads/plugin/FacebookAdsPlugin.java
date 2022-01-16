@@ -7,6 +7,7 @@ import com.getcapacitor.PluginMethod;
 import com.getcapacitor.annotation.CapacitorPlugin;
 
 @CapacitorPlugin(name = "FacebookAds")
+
 public class FacebookAdsPlugin extends Plugin {
 
     private FacebookAds implementation = new FacebookAds();
